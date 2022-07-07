@@ -36,7 +36,7 @@ public class NotesRepository {
     }
 
 
-    //inseting and deletinh can be haviourso we do in background
+    //inseting and deleting can be haviour so we do in background
     public void insert(Note note) {
         new InsertNote(mWordDao).execute(note);
     }
