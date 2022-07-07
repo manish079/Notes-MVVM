@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2335" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/delete_menu.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/delete_sheet_bg.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/delete_sheet_no.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/delete_sheet_yes.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/edit_text_bg.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/green_shape.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_add.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_delete.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_done.xml" value="0.2335" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_filter_list.xml" value="0.2335" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2335" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/ic_search.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/red_shape.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/text_view_design_main_top.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/text_view_main_no_border.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/view_bg.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/drawable/yellow_shape.xml" value="0.2425" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/activity_insert_note.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/activity_splash.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/activity_update_note.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/delete_note_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/layout/note_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/menu/delete_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Development/TodoMVVM2/app/src/main/res/menu/search_menu.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
